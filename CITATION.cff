@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark summary data, please cite it using this metadata."
+title: "Code and benchmark summary data for: Resolving the Stationarity-Outlier-Drift-Finiteness Quadrilemma in Online Conformal Prediction via Log-Geometric Multi-Scale Aggregation"
+version: "1.0.0"
+date-released: "2026-11-20"
+license: "MIT"
+repository-code: "https://github.com/provezano/loggeo-hyperbc-conformal"
+authors:
+  - family-names: "Coutinho"
+    given-names: "Felipe Provezano"
+    orcid: "https://orcid.org/0000-0001-7206-5856"
