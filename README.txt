@@ -5,6 +5,8 @@ Author: Felipe Provezano Coutinho (ORCID: 0000-0001-7206-5856)
 Version: 1.0.0 (2026-11-20)
 License: MIT (code/) and CC-BY-4.0 (data/)
 Repository: https://github.com/provezano/loggeo-hyperbc-conformal
+Archive DOI: https://doi.org/10.5281/zenodo.24387339
+
 Contents:
   - CITATION.cff: Citation metadata with author ORCID.
   - LICENSE.txt: MIT and CC-BY-4.0 license terms.

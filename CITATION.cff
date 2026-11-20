@@ -5,6 +5,9 @@ version: "1.0.0"
 date-released: "2026-11-20"
 license: "MIT"
 repository-code: "https://github.com/provezano/loggeo-hyperbc-conformal"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24387339"
 authors:
   - family-names: "Coutinho"
     given-names: "Felipe Provezano"
