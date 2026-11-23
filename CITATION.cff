@@ -3,7 +3,7 @@ message: "If you use this software or benchmark summary data, please cite it usi
 title: "Code and benchmark summary data for: Resolving the Stationarity-Outlier-Drift-Finiteness Quadrilemma in Online Conformal Prediction via Log-Geometric Multi-Scale Aggregation"
 version: "1.0.0"
 date-released: "2026-11-20"
-license: "MIT"
+license: "Apache-2.0"
 repository-code: "https://github.com/provezano/loggeo-hyperbc-conformal"
 identifiers:
   - type: doi
